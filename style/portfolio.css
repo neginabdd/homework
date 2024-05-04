@@ -1,0 +1,49 @@
+body{
+  max-width: 1800px;
+    background-image: url('/img/background.jpg');
+}
+.custom-img {
+    border-radius:50%;
+    height: 180px;
+  }
+  h2{
+    margin-top: 80px;
+    margin-left: 10px;
+    color: rgb(67, 0, 131);
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+  }
+  nav.negin{
+    background-color: #f8bbff;
+    border-radius: 20px;
+    margin-left: 10px;
+    font-family: "Playfair Display", serif;
+    margin-top: 5px;
+  }
+  .card{
+    background-color:#b983c0;
+    color:rgb(rgb(82, 72, 83));
+    border-radius: 10px;
+    padding: 10px ;
+    margin: 100px 10px ;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;;
+  }
+  .negar{
+    color:rgb(255, 0, 234);
+    text-decoration: none;
+    padding-top: 20px;
+    
+  }
+  .negar:hover{
+    color: rgb(202, 156, 245);
+    transition: 200ms;
+  }
+.she{
+  text-decoration: none;
+  color: #9f36ab;
+}
+
+.shephoto{
+  height: 80px;
+}
