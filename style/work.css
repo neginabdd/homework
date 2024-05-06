@@ -2,5 +2,10 @@
     height: 65px;
 }
 body{
+    text-align: center;
     background-image: url('/homework/img/background.jpg');
+    font-weight: bold;
+}
+.work-section{
+    padding: 160px 20px;
 }
