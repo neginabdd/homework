@@ -1,5 +1,5 @@
 .shephoto{
-    height: 65px;
+    height: 120px;
 }
 body{
     text-align: center;
@@ -8,4 +8,10 @@ body{
 }
 .work-section{
     padding: 160px 20px;
+}
+.book{
+    height: 200px;
+}
+.notro{
+    height: 220px;
 }
