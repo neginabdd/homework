@@ -2,6 +2,7 @@ body{
     text-align: center;
     background-image: url('/img/background.jpg');
     font-weight: bold;
+    margin: 10px;
 }
 .cards{
     margin-top: 50px;
