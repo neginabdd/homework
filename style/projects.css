@@ -3,3 +3,25 @@ body{
     background-image: url('/img/background.jpg');
     font-weight: bold;
 }
+.cards{
+    margin-top: 50px;
+    background-color: rgba(245, 209, 245, 0.937);
+    font-family: "Poppins", sans-serif;
+}
+h1{
+    margin-top: 50px;
+    color: rgb(61, 52, 60);
+    font-family: monospace;
+}
+h1:hover{
+    color:rgb(241, 226, 169);
+    transition: 200ms all ease-in-out;
+}
+.back{
+    font-family: monospace;
+    color:rgb(241, 226, 169);
+}
+.back:hover{
+    color: rgb(228, 205, 225);
+    transition: 200ms all ease-in-out;
+}
