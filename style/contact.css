@@ -2,3 +2,14 @@ body{
     text-align: center;
     background-image: url('/img/background.jpg');
 }
+.but{
+    padding: 10px;
+    background-color: rgba(165, 71, 154, 0.896);
+}
+.forms{
+ color: rgb(207, 209, 181);
+}
+.links{
+    color: white;
+    font-weight: bold;
+}
