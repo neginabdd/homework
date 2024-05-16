@@ -12,4 +12,8 @@ body{
 .links{
     color: white;
     font-weight: bold;
+    font-family:monospace;
+}
+.contact,h3{
+    font-family: monospace;
 }
