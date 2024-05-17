@@ -4,7 +4,8 @@ body{
 }
 .custom-img {
     border-radius:50%;
-    height: 180px;
+    height: 25%;
+    width: 30%;
   }
   h2{
     margin-top: 80px;
@@ -41,9 +42,12 @@ body{
   }
 .she{
   text-decoration: none;
-  color: #9f36ab;
+  color:rgb(21, 2, 22);
 }
-
+.she:hover{
+  color: rgb(44, 234, 221);
+  transition: 200ms all ease-in-out;
+}
 .shephoto{
   height: 80px;
 }
