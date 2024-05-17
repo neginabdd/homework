@@ -23,8 +23,9 @@ h1,h2{
     font-family: "Roboto Mono", monospace;
     padding: 8px;
     margin: 5px;
-   background-color:rgba(245, 209, 245, 0.937);
+   background-color:rgba(245, 209, 245, 10%);
    border-radius: 4px;
+   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 .home{
     color: black;

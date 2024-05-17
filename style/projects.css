@@ -6,7 +6,7 @@ body{
 }
 .cards{
     margin-top: 50px;
-    background-color: rgba(245, 209, 245, 0.937);
+    background-color: rgba(245, 209, 245, 20%);
     font-family: "Poppins", sans-serif;
 }
 h1{
