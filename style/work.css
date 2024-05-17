@@ -15,3 +15,27 @@ body{
 .notro{
     height: 220px;
 }
+h1,h2{
+    font-family: "Poppins", sans-serif;
+    padding-top: 5px;
+}
+.textt{
+    font-family: "Roboto Mono", monospace;
+    padding: 8px;
+    margin: 5px;
+   background-color:rgba(245, 209, 245, 0.937);
+   border-radius: 4px;
+}
+.home{
+    color: black;
+    font-family:"Poppins", sans-serif;
+    text-decoration: none;
+    padding: 8px;
+}
+.home:hover{
+    color:rgb(175, 3, 3) ;
+    transition: 300ms all ease-in-out;
+}
+.link{
+    color:rgb(175, 3, 3) ;
+}
